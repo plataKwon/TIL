@@ -14,3 +14,6 @@
     * [Jacob Eisenstein 교수님의 자연어 처리 강의](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
     * [YSDA 자연어 처리](https://github.com/yandexdataschool/nlp_course)
     * [조경현 교수님의 자연어 처리 강의 노트](https://github.com/nyu-dl/NLP_DL_Lecture_Note/blob/master/lecture_note.pdf)
+
+#### wikidocs
+- [딥러닝을 이용한 자연어 처리 입문](https://wikidocs.net/21698)
